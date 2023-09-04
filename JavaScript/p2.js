@@ -1,5 +1,5 @@
-const accountName = "Roblire"
-const accountNumber = 135792468
+const  accountName = "Roblire" = " "
+const accountNumberccountNumber = 135792468
 let accountEmail = "roblire.gamer@gmail.com"
 let accountPassword = "260012"
 accountCountry = "Japan"
