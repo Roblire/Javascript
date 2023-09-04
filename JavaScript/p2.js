@@ -1,4 +1,4 @@
-const  accountName = "Roblire" = " "
+const accountName = "Roblire"
 const accountNumberccountNumber = 135792468
 let accountEmail = "roblire.gamer@gmail.com"
 let accountPassword = "260012"
