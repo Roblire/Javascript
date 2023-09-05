@@ -7,7 +7,7 @@ let accountState;
 
 // I will not use var due to issue in block scope and functional scope
 
-accountEmail = "roblire.gamer.official@gmail.com"
+accountEmail = "roblire.gamer.official@gmail.com" // This is changed value/data
 accountPassword = "2468"
 accountCountry = "India"
 
