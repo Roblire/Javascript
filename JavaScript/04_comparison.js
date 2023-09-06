@@ -21,4 +21,5 @@
 // console.log(undefined < 0); False
 
 // Using '==='
-    console.log("2" === 2); // False, as it  strictly checks the datatype 
+    console.log("2" === 2); // False, as it  strictly checks the datatype
+    console.log(null === 0);
